@@ -1,1 +1,1 @@
-worker: python3 start.py GET https://khub.brc.pshs.edu.ph/my 1 20 http.txt 30 10000000000000
+worker: python3 start.py SYN 	52.221.229.125 50 100000000000000
