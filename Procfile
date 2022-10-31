@@ -1,1 +1,1 @@
-worker: python3 start.py CFB https://brc.nephilaweb.com.ph/ 1 50 http.txt 30 10000000000000
+worker: python3 start.py GET https://13.250.26.214 1 50 http.txt 30 10000000000000
