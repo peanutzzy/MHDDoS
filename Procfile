@@ -1,1 +1,1 @@
-worker: python3 start.py TCP 13.250.26.214:44350 100000000000000
+worker: python3 start.py TCP 13.250.26.214:443 50 100000000000000
