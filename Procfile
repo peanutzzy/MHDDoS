@@ -1,1 +1,1 @@
-worker: python3 start.py SYN 52.221.229.125 50 100000000000000
+worker: python3 start.py TCP 13.250.26.214 50 100000000000000
